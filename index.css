@@ -1,0 +1,596 @@
+.text {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.main-text {
+    margin: 0;
+    width: 480px;
+    font-family: 'Mixta-Didone';
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 60px;
+    color: #000000;
+    margin-left: 3rem;
+    margin-right: 20rem;
+    margin-top: 3rem;
+}
+.minor-text {
+    width: 131px;
+    height: 21px;
+    font-family: 'Campton';
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 20.95px;
+    font-style: normal;
+    color: #FFFFFF;
+    margin-right: 3rem;
+    margin-left: 19rem;
+    margin-top: 3rem;
+}
+.minor-text {
+    border-radius: 9px;
+    background-color: #2A4ECB;
+}
+#img {
+    display: grid;
+    grid-template-columns: repeat(8, 4fr);
+    column-gap: 14px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 3rem;
+    margin-right: 3rem;
+}
+.text-1, .text-2, .text-3, .text-4 {
+    margin-top: 20px;
+}
+#img-2 {
+    display: grid;
+    grid-template-columns: repeat(8, 4fr);
+    column-gap: 14px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 3rem;
+    margin-right: 3rem;
+}
+#text-1, #text-2, #text-3, #text-4 {
+    margin-top: 20px;
+}
+.hero {
+    background-color: #2A4ECB;
+    width: 100%;
+    height: 892px;
+    top: 3317px;
+    left: 1.12px;
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+.img {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.textH {
+    width: 406.05px;
+    height: 91.27px;
+    font: 'Mixta Didone';
+    font-weight: 700;
+    font-size: 66px;
+    line-height: 85.14px;
+    color: #C8E4FF;
+    margin-right: 90rem;
+    margin-top: 8rem;
+    margin-left: 8rem ;
+}
+.imgP {
+    margin-top: 3rem;
+    margin-left: 10rem;
+    margin-right: 3rem;
+    margin-bottom: 3rem;
+
+}
+#onyibest {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    margin-right: 3rem;
+}
+.chi, .onyi, .nedu {
+    display: grid;
+    grid-template-columns: 0.3fr 0.3fr;
+    margin-left: 10rem;
+  
+}
+.A, .B, .C {
+    font-family: 'Campton';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 30px;
+    color: #FFFFFF;
+    margin-left: 10.98%;
+    margin-right: 48.4%;
+    width: 353.12px;
+    height: 90px;
+    left: 119.02px;
+    top: 43.47px;
+
+}
+.D, .E, .F {
+    width: 52.06px;
+    height: 54.49px;
+    top: 205.95px;
+    left: 22.58px;
+    margin-left: 2.08%;
+    margin-right: 93.11%;
+    margin-top: 45.46%;
+    margin-bottom: 42.51%;
+}
+.Based {
+    width: 424px;
+    height: 55px;
+    top: 4359px;
+    left: 546px;
+    font-family: 'Mixta-Didone';
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 51.6px;
+    color: #2A4ECB;
+    margin-left: 30rem;
+    margin-right: 20rem;
+    margin-top: 8rem;
+}
+.Doing {
+    width: 710px;
+    height: 152px;
+    top: 4439px;
+    left: 406px;
+    font-family: 'Campton';
+    font-weight: 500;
+    font-size: 26px;
+    line-height: 40px;
+    color: #000000;
+    margin-right: 20rem;
+    margin-left: 23rem;
+    margin-top: 1rem;
+}
+#Frame {
+    display: grid;
+    grid-template-columns: repeat(2,  1fr);
+}
+.frame1 {
+    width: 798px;
+    height: 632px;
+    top: 4620px;
+    left: 64px;
+    
+}
+.boi {
+    margin-top: 15rem;
+    margin-bottom: 10rem;
+
+
+}
+.mile {
+    
+    height: 51px;
+    font-family: 'Chalkboard';
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 51.05px;
+    color: #000000;
+    margin-top: 0%;
+    margin-bottom: -0%;
+    
+
+}
+.P6 {
+    height: 51px;
+    font-family: 'Chalkboard';
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 51.05px;
+    color: #000000;
+    margin-bottom: 1.6%;
+
+}
+#R7 {
+  width: 12rem;
+  height: 19.02px;
+  background-color: #FFD247;
+  margin-top: -1.2rem;
+}
+.our1 {
+    height: 55px;
+    font-family: 'Mixta-Didone';
+    font-style: normal;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 52px;
+    color: #2A4ECB;
+    margin-left: 64%;
+    margin-top: 8rem;
+}
+.our2 {
+    height: 129px;
+    font-family: 'Campton';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 26px;
+    line-height: 40px;
+    color: #000000;
+    margin-left: 25rem;
+    margin-right: -20rem
+}
+.some {
+background-image: url(./assets/img/Vector\ \(2\).png);
+height: 738px;
+display: grid;
+grid-template-columns: 1fr 1fr;
+margin-top: 5rem;
+}
+.watch {
+background-color: #3C63EA;
+height: 171px;
+font-family: 'Mixta Didone';
+color: #FFFFFF;
+font-weight: 700;
+font-size: 40px;
+font-style: normal;
+line-height: 48px;
+margin-right: 15.8%;
+margin-left: 20.99%;
+margin-top: 20rem;
+margin-bottom: 20rem;
+}
+.vec {
+    height: 337px;
+    width: 437px;
+    margin-top: 15rem;
+    margin-bottom: 10rem;
+    margin-left: 3rem;
+}
+#test {
+    height: 54px;
+    font-family: 'Mixta Didone';
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 51.6px;
+    color: #2A4ECB;
+    text-align: center;
+    margin-top: 5rem;
+}
+.person1 {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+.Do {
+    margin-left: 5rem;
+    margin-bottom: 5rem;
+    background-color: gold;
+    margin-right: -3%;
+}
+#new {
+    height: 165px;
+    font-family: 'Campton';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 26px;
+    line-height: 40px;
+    color: #000000;
+    margin-top: 10rem;
+    margin-right: 10rem;
+    margin-bottom: -2.77%;
+    margin-left: -2rem;
+}
+.tony {
+    height: 42px;
+    font-family: 'Campton';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 40px;
+    margin-top: -2.77%;
+    margin-left: -2rem;
+}
+.person2 {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+.has {
+    height: 165px;
+    font-family: 'Campton';
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 40px;
+    color: #000000;
+    margin-left: 5rem;
+    margin-bottom: -2.77%;
+    margin-top: 13rem;
+}
+.omo {
+    height: 41px;
+    font-family: 'Campton';
+    font-style: normal;
+    font-size: 26px;
+    font-weight: 700;
+    line-height: 40px;
+    color: #000000;
+    margin-left: 5rem;
+    margin-top: -2.77%;
+}
+.start {
+    height: 49px;
+    font-family: 'Mixta-Didone';
+    font-style: normal;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 46px;
+    color: #2A4ECB;
+    text-align: center;
+    margin-top: 8rem;
+}
+.join {
+    height: 130px;
+    font-family: 'Campton';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 26px;
+    line-height: 40ppx;
+    text-align: center;
+    color: #000000;
+    margin-left: 20rem;
+    margin-right: 20rem;
+}
+.mm {
+    height: 21px;
+    font-family: 'Campton';
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 20.95px;
+    font-style: normal;
+    color: #FFFFFF;
+    text-align: center;
+    width: 237px;
+}
+.mm {
+    border-radius: 14px;
+    background-color: #2A4ECB;
+    margin-left: 33rem;
+    margin-right: 33rem;
+    height: 84.38px;
+    margin-bottom: 8rem;
+    margin-top: 8rem;
+}
+.for {
+    background-color: #2A4ECB;
+    height: 816px;
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+}
+#for {
+    font-family: 'Campton';
+    font-size: 22px;
+    font-weight: 800;
+    line-height: 26px;
+    font-style: normal;
+    color: #AEC0FF;
+    padding-top: 5%;
+    text-align: center;
+}
+.built {
+    font-family: 'Mixta-Didone';
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 52px;
+    color: #FFFFFF;
+    padding-left: 25rem;
+    padding-right:20rem;
+}
+.ontools {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    margin-top: 80px;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+.online {
+    background-color: #3C63EA;
+    border-radius: 41px;
+    height: 327.21px;
+    left: 207.89px;
+    width: 540.46px;
+}
+.tools {
+    background-color: #3C63EA;
+    border-radius: 41px;
+    width: 540.46px;
+    height: 327.21px;
+    left: 8566.23px;
+}
+.tor {
+    background-color: #FFFFFF;
+    margin-top: 3rem;
+    margin-left: 2rem;
+}
+.hire {
+    font-family: 'Campton';
+    font-weight: 700;
+    font-size: 24px;
+    font-style: normal;
+    line-height: 28px;
+    color: #FFFFFF;
+    margin-left: 2rem;
+}
+.find {
+    font-family: 'Campton';
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 23px;
+    color: #FFFFFF;
+    margin-left: 2rem;
+}
+.le {
+    font-family: 'Campton';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    color: #FFDF7B;
+    margin-left: 2rem;
+    margin-top: 5rem;
+}
+.cer {
+    background-color: #FFFFFF;
+    margin-top: 3rem;
+    margin-left: 2rem;
+    
+}
+.ups {
+    font-family: 'Campton';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    color: #FFFFFF;
+    margin-left: 2rem;
+}
+.imp {
+    font-family: 'Campton';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23px;
+    color: #FFFFFF;
+    margin-left: 2rem;
+}
+.re {
+    font-family: 'Campton';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    color: #AEC0FF;
+    margin-left: 2rem;
+    margin-top: 3rem;
+}
+.by {
+    font-family: 'Campton';
+    font-style: normal;
+    font-size: 26px;
+    font-weight: 500;
+    line-height: 30px;
+    color: #767676;
+    text-align: center;
+}
+#with {
+    display: grid;
+    grid-template-columns: repeat(8, 4fr);
+    column-gap: 200px;
+    margin-left: 10rem;
+    margin-right: 10rem;
+    margin-top: 3rem;
+    margin-bottom: 5rem;
+}
+.K {
+    font-family: 'Campton';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 50px;
+    line-height: 58px;
+    color: #000000;
+}
+.K1 {
+    font-family: 'Campton';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23px;
+    color: #767676;
+    margin-top: -2rem;
+}
+.kill {
+    font-family: 'Campton';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 50px;
+    line-height: 58px;
+    color: #000000;
+}
+.less {
+    font-family: 'Campton';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23px;
+    color: #767676;
+    margin-top: -2rem;
+    margin-left: -2rem;
+    margin-right: -8rem;
+}
+.ses {
+    font-family: 'Campton';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 50px;
+    line-height: 58px;
+    color: #000000;
+}
+.exe {
+    font-family: 'Campton';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23px;
+    color: #767676;
+    margin-top: -2rem;
+    margin-left: -2rem;
+    margin-right: -8rem;
+}
+.unt {
+    font-family: 'Campton';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 50px;
+    line-height: 58px;
+    color: #000000;
+}
+.cou {
+    font-family: 'Campton';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23px;
+    color: #767676;
+    margin-top: -2rem;
+}
+.src5 {
+    display: grid;
+    grid-template-columns: repeat(4, 4fr);
+    margin-right: 20rem;
+    margin-left: 30rem;
+}
+.src1, .src2, .src3, .src4 {
+    background-color: #FFA800;
+}
+.act {
+    display: grid;
+    grid-template-columns: repeat(5, 5fr);
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+    margin-left: 15rem;
+    margin-right: 5rem;
+
+}
+.TE, .AB, .CO, .BL, .FA {
+    font-family: Campton;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 23px;
+    color: #000000;
+}
+.ved {
+   text-align: center;
+   color: #727272;
+}
